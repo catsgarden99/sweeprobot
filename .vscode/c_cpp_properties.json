@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\【单片机】\\【单片机】audrino\\Arduino\\tools\\**",
+                "C:\\Users\\Administrator\\Documents\\Arduino\\libraries\\**",
+                "D:\\【单片机】\\【单片机】audrino\\Arduino\\libraries\\**",
+                "D:\\【单片机】\\【单片机】audrino\\Arduino\\hardware\\tools\\**",
+                "D:\\【单片机】\\【单片机】audrino\\Arduino\\hardware\\arduino\\avr\\**"
+            ],
+            "forcedInclude": [
+                "D:\\【单片机】\\【单片机】audrino\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "D:/Microsoft Visual Studio c++/main/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
